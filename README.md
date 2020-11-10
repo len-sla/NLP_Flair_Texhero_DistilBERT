@@ -1,6 +1,6 @@
 ## Project Name
 Predict which tweets are about real dissters and which ones are not in a couple lines of code.
-data for calculation taken from https://www.kaggle.com/c/nlp-getting-started
+Data for calculation taken from https://www.kaggle.com/c/nlp-getting-started
 
 
 
