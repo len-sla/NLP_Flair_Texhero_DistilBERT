@@ -6,7 +6,7 @@ Data for calculation taken from https://www.kaggle.com/c/nlp-getting-started
 
 ### General info
 If you need to get quickly some initial results in typical NLP task 
-than using packes [Flair](https://github.com/flairNLP/flair), [Texthero](https://texthero.org/) and [DistilBERT](https://huggingface.co/transformers/model_doc/distilbert.html) would give quite good results.
+than using packages [Flair](https://github.com/flairNLP/flair), [Texthero](https://texthero.org/) and [DistilBERT](https://huggingface.co/transformers/model_doc/distilbert.html) would give quite good results.
 
 
 
