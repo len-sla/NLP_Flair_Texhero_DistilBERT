@@ -33,6 +33,17 @@ Project is: _in progress_,
 ##### _result on leaderboard_ 
 ![###  ](real-or-not.JPG)
 
+---
+
+
+
+### Second attempt
+[Rev_B_real_or_not.ipynb](Rev_B_real_or_not.ipynb)
+Results were worse compared with initial simple automatic approach. That proves how good/opimised Flair Framework is to get best results.
+Tweaking does not give better results. Maybe more  extensive text cleaning and deciphering abbreviation and other shorcuts could do better result.
+Things like hero.visualization.wordcloud, kmeans, custom_pipeline were checked. 
+
+
 ### Info
 Created by [@len-sla]
 
