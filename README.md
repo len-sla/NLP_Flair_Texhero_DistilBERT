@@ -45,6 +45,6 @@ Things like hero.visualization.wordcloud, kmeans, custom_pipeline were checked.
 
 
 ### Info
-Created by [@len-sla]
+Created by lencz.sla@gmail.com
 
 
